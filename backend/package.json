@@ -1,0 +1,14 @@
+{
+  "name": "my-pizza-backend",
+  "version": "1.0.0",
+  "description": "My Pizza Restaurant - Express API",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js",
+    "seed": "node src/seeds/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
